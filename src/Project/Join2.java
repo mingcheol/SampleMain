@@ -17,6 +17,9 @@ import Project.JoinForm.MyEXITListener;
 import Project.JoinForm.MyOKListener;
 import Project.LoginForm.MyCreateListener;
 
+
+//병신
+
 public class Join2 extends JFrame {
 	private Container contentPane; // 틀에맞는 칸을 만들 패널
 	private JTextField idCreateField; // 아이디 생성 칸
